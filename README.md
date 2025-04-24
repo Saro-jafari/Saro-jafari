@@ -8,10 +8,12 @@
 <div>
     <a href="https://ir.linkedin.com/in/saro-jafari-30a787243" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://Sarodev.ir/" target="_blank"> <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank"></a>
-  <a href="mailto:Sarojafari2004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
+    <a href="mailto:Sarojafari2004@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://t.me/sarojafarii" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
 </div>
 
 
@@ -52,18 +54,8 @@ For managing server-side data, such as API requests:
 
 ---
 
-
-### 🛠️ Backend Development
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
 ### 🗃️ Database & ORM
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
@@ -77,12 +69,9 @@ For managing server-side data, such as API requests:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
   
-- 📫 How to reach me **Sarojafari2004@gmail.com**
 
-- 📄 Know about my experiences [https://t.me/Saro_Dev/4](https://t.me/Saro_Dev/4)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
