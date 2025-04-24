@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saro Jafari</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=24&pause=1000&color=1658FF&width=500&lines=Hey+everyone!+I'm+Saro+Jafari;I'm+a+computer+science+student;My+main+interests+are+..;Software+Development%2C+AI%2C+Backend+Development%2C+Frontend+Technologies" alt="Typing SVG" />
+    </a>
+</div>
+
 ## 🌐 Socials:
 <div>
     <a href="https://ir.linkedin.com/in/saro-jafari-30a787243" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
