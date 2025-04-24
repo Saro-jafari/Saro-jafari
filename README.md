@@ -77,6 +77,7 @@ For managing server-side data, such as API requests:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro-jafari&layout=compact&langs_count=10&card_width=400&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro-jafari&layout=compact&langs_count=10&card_width=1000&theme=radical&hide=html,css" alt="Top Languages">
 </p>
+
 
