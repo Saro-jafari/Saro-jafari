@@ -76,9 +76,7 @@ For managing server-side data, such as API requests:
   
 ---
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro-jafari&layout=compact&langs_count=10&card_width=400&theme=radical" alt="Top Languages">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saro-jafari&show_icons=true&locale=en&layout=compact" alt="saro-jafari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saro-jafari&show_icons=true&locale=en" alt="saro-jafari" /></p>
