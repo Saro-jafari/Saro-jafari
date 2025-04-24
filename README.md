@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saro Jafari</h1>
+## 🌐 Socials:
+<div>
+    <a href="https://ir.linkedin.com/in/saro-jafari-30a787243" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://Sarodev.ir/" target="_blank"> <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank"></a>
+  <a href="mailto:Sarojafari2004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-- 🌐 Visit my website [My Website](https://Sarodev.ir)
+</div>
+
+
   
 - 📫 How to reach me **Sarojafari2004@gmail.com**
 
