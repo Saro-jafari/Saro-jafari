@@ -2,6 +2,7 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=24&pause=1000&color=1658FF&width=500&lines=Hey+everyone!+I'm+Saro+Jafari;I'm+a+computer+science+student;My+main+interests+are+..;Software+Development%2C+AI%2C+Backend+Development%2C+Frontend+Technologies" alt="Typing SVG" />
     </a>
+    
 </div>
 
 ## 🌐 Socials:
