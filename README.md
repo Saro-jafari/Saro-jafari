@@ -16,19 +16,19 @@
 ## 🌐 Socials
 <div>
   <a href="https://ir.linkedin.com/in/saro-jafari-30a787243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://Sarodev.ir/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
   </a>
   <a href="https://t.me/sarojafarii" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://www.instagram.com/sarojafarii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:Sarojafari2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 ## 📦 Tech Stack
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,7 +48,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
@@ -57,53 +57,53 @@
 ### 🧠 State & Data Management
 
 #### State Management
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 
 #### Server State
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
 ## ✅ 🧩 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
-![REST%20API](https://img.shields.io/badge/REST%20API-20232A?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-20232A?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST%20API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧠 NestJS Skills & Concepts
-![Modules](https://img.shields.io/badge/Modules-000000?style=for-the-badge)
-![Controllers](https://img.shields.io/badge/Controllers-000000?style=for-the-badge)
-![Providers](https://img.shields.io/badge/Providers-000000?style=for-the-badge)
-![Dependency%20Injection](https://img.shields.io/badge/Dependency%20Injection-000000?style=for-the-badge)
-![DTO](https://img.shields.io/badge/DTO-000000?style=for-the-badge)
-![Validation](https://img.shields.io/badge/Validation-000000?style=for-the-badge)
-![Guards](https://img.shields.io/badge/Guards-000000?style=for-the-badge)
-![Pipes](https://img.shields.io/badge/Pipes-000000?style=for-the-badge)
-![Interceptors](https://img.shields.io/badge/Interceptors-000000?style=for-the-badge)
-![Exception%20Filters](https://img.shields.io/badge/Exception%20Filters-000000?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-000000?style=for-the-badge)
-![Authorization](https://img.shields.io/badge/Authorization-000000?style=for-the-badge)
-![Roles](https://img.shields.io/badge/Roles-000000?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Modules-2F3136?style=for-the-badge)
+![Controllers](https://img.shields.io/badge/Controllers-2F3136?style=for-the-badge)
+![Providers](https://img.shields.io/badge/Providers-2F3136?style=for-the-badge)
+![Dependency%20Injection](https://img.shields.io/badge/Dependency%20Injection-2F3136?style=for-the-badge)
+![DTO](https://img.shields.io/badge/DTO-2F3136?style=for-the-badge)
+![Validation](https://img.shields.io/badge/Validation-2F3136?style=for-the-badge)
+![Guards](https://img.shields.io/badge/Guards-2F3136?style=for-the-badge)
+![Pipes](https://img.shields.io/badge/Pipes-2F3136?style=for-the-badge)
+![Interceptors](https://img.shields.io/badge/Interceptors-2F3136?style=for-the-badge)
+![Exception%20Filters](https://img.shields.io/badge/Exception%20Filters-2F3136?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-2F3136?style=for-the-badge)
+![Authorization](https://img.shields.io/badge/Authorization-2F3136?style=for-the-badge)
+![Roles](https://img.shields.io/badge/Roles-2F3136?style=for-the-badge)
 
 ---
 
 ### 🗃️ Database & BaaS
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ### 🌐 API & Integration
 ![OpenWeather](https://img.shields.io/badge/OpenWeather-EE8133?style=for-the-badge&logo=openweathermap&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-006B8F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 
 ---
 
