@@ -60,25 +60,25 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-006B8F?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-006B8F?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧠 NestJS Skills & Concepts
-![Modules](https://img.shields.io/badge/Modules-1E2937?style=for-the-badge)
-![Controllers](https://img.shields.io/badge/Controllers-1E2937?style=for-the-badge)
-![Providers](https://img.shields.io/badge/Providers-1E2937?style=for-the-badge)
-![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-1E2937?style=for-the-badge)
-![DTO](https://img.shields.io/badge/DTO-1E2937?style=for-the-badge)
-![Validation](https://img.shields.io/badge/Validation-1E2937?style=for-the-badge)
-![Guards](https://img.shields.io/badge/Guards-1E2937?style=for-the-badge)
-![Pipes](https://img.shields.io/badge/Pipes-1E2937?style=for-the-badge)
-![Interceptors](https://img.shields.io/badge/Interceptors-1E2937?style=for-the-badge)
-![Exception Filters](https://img.shields.io/badge/Exception%20Filters-1E2937?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-1E2937?style=for-the-badge)
-![Authorization](https://img.shields.io/badge/Authorization-1E2937?style=for-the-badge)
-![Roles](https://img.shields.io/badge/Roles-1E2937?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Modules-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Controllers](https://img.shields.io/badge/Controllers-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Providers](https://img.shields.io/badge/Providers-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![DTO](https://img.shields.io/badge/DTO-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Validation](https://img.shields.io/badge/Validation-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Guards](https://img.shields.io/badge/Guards-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Pipes](https://img.shields.io/badge/Pipes-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Interceptors](https://img.shields.io/badge/Interceptors-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Exception Filters](https://img.shields.io/badge/Exception%20Filters-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Authorization](https://img.shields.io/badge/Authorization-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Roles](https://img.shields.io/badge/Roles-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ---
 ### 🗃️ Database & BaaS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -87,7 +87,7 @@
 ---
 ### 🌐 API & Integration
 ![OpenWeather](https://img.shields.io/badge/OpenWeather-EE8133?style=for-the-badge&logo=openweathermap&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-006B8F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-006B8F?style=for-the-badge&logoColor=white)
 ---
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
