@@ -129,7 +129,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<hr/>
-<p align="center">
-  ✨ Thanks for stopping by! Feel free to explore my repositories and connect with me. ✨
-</p>
+
