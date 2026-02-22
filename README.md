@@ -112,21 +112,6 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saro-jafari&show_icons=true&theme=radical&count_private=true&hide_border=false" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro-jafari&layout=compact&langs_count=10&card_width=400&theme=radical&hide=html,css&hide_border=false" height="170" alt="Top Languages" />
-</div>
 
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saro-jafari&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
 
 
