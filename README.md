@@ -1,28 +1,40 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=24&pause=1000&color=1658FF&width=500&lines=Hey+everyone!+I'm+Saro+Jafari;I'm+a+computer+science+student;My+main+interests+are+..;Software+Development%2C+AI%2C+Backend+Development%2C+Frontend+Technologies" alt="Typing SVG" />
-    </a>
-    
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=24&pause=1000&color=1658FF&width=700&lines=Hey+everyone!+I'm+Saro+Jafari;I'm+a+Computer+Engineering+student;I+build+web+apps+with+Frontend+%26+Backend;Interests%3A+Software+Dev%2C+AI%2C+Backend%2C+Frontend" alt="Typing SVG" />
+  </a>
 </div>
 
-## 🌐 Socials:
+<br />
+
+## 👋 About Me
+- 🎓 **Computer Engineering student**
+- 💻 Interested in **Software Development, AI, Backend Development, Frontend Technologies**
+- 🚀 Currently learning & building with **NestJS** for backend
+
+---
+
+## 🌐 Socials
 <div>
-    <a href="https://ir.linkedin.com/in/saro-jafari-30a787243" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://Sarodev.ir/" target="_blank"> <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white" target="_blank"></a>
-        <a href="https://t.me/sarojafarii" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-       <a href="https://www.instagram.com/sarojafarii" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:Sarojafari2004@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-
+  <a href="https://ir.linkedin.com/in/saro-jafari-30a787243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://Sarodev.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="https://t.me/sarojafarii" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/sarojafarii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:Sarojafari2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
+---
 
-## 📦 Tech Stack 
+## 📦 Tech Stack
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,26 +54,37 @@
 
 ---
 
-### 🧠 **State & Data Management**
+### 🧠 State & Data Management
 
-#### **State Management**
-For managing local state and data within the application:
-
+#### State Management
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=redux&logoColor=white)
 
-#### **Server State Management**
-For managing server-side data, such as API requests:
-
+#### Server State
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
-### 🗃️ Database & ORM
+### 🧩 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-006B8F?style=for-the-badge)
+
+#### NestJS Skills & Concepts
+- Modules, Controllers, Providers/Services, Dependency Injection  
+- DTO & Validation (class-validator / class-transformer)
+- Guards, Pipes, Interceptors, Exception Filters
+- Authentication & Authorization (JWT / Roles)
+
+---
+
+### 🗃️ Database & BaaS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -71,15 +94,15 @@ For managing server-side data, such as API requests:
 
 ---
 
-### ⚙️ DevOps & Tools
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  
+
 ---
 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro-jafari&layout=compact&langs_count=10&card_width=1000&theme=radical&hide=html,css" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=saro-jafari&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saro-jafari&layout=compact&langs_count=10&card_width=450&theme=radical&hide=html,css" height="165" alt="Top Languages" />
 </p>
-
-
