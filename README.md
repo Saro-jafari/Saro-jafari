@@ -68,16 +68,29 @@
 
 ---
 
-### 🧩 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-006B8F?style=for-the-badge)
+## ✅ 🧩 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+![REST%20API](https://img.shields.io/badge/REST%20API-20232A?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-20232A?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-#### NestJS Skills & Concepts
-- Modules, Controllers, Providers/Services, Dependency Injection  
-- DTO & Validation (class-validator / class-transformer)
-- Guards, Pipes, Interceptors, Exception Filters
-- Authentication & Authorization (JWT / Roles)
+### 🧠 NestJS Skills & Concepts
+![Modules](https://img.shields.io/badge/Modules-000000?style=for-the-badge)
+![Controllers](https://img.shields.io/badge/Controllers-000000?style=for-the-badge)
+![Providers](https://img.shields.io/badge/Providers-000000?style=for-the-badge)
+![Dependency%20Injection](https://img.shields.io/badge/Dependency%20Injection-000000?style=for-the-badge)
+![DTO](https://img.shields.io/badge/DTO-000000?style=for-the-badge)
+![Validation](https://img.shields.io/badge/Validation-000000?style=for-the-badge)
+![Guards](https://img.shields.io/badge/Guards-000000?style=for-the-badge)
+![Pipes](https://img.shields.io/badge/Pipes-000000?style=for-the-badge)
+![Interceptors](https://img.shields.io/badge/Interceptors-000000?style=for-the-badge)
+![Exception%20Filters](https://img.shields.io/badge/Exception%20Filters-000000?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-000000?style=for-the-badge)
+![Authorization](https://img.shields.io/badge/Authorization-000000?style=for-the-badge)
+![Roles](https://img.shields.io/badge/Roles-000000?style=for-the-badge)
 
 ---
 
